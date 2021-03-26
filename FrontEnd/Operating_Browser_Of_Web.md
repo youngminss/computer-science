@@ -2,8 +2,8 @@
 
 ![브라우저와 웹서버 관계](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNMHTD%2Fbtq0800IvPX%2FEacQrF8YL5ypxEXWm1M3l0%2Fimg.png)
 
-웹을 실행하는 환경은 `브라우저`
-웹을 제공하는 곳은 `웹 서버`
+**웹을 실행하는 환경은** `브라우저`   
+**웹을 제공하는 곳은** `웹 서버`
 
 1.  사용자가 브라우저에서 URL(도메인 주소)를 입력
 1. 브라우저는 웹 서버를 실행하고 있는 컴퓨터에게 요청
@@ -28,10 +28,12 @@
 
 ![](https://www.grabbing.me/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F526aadc1-8ce6-48df-a07c-4174ab783cb5%2FUntitled.png?table=block&id=1c733467-b6c5-4ded-922a-3fc25eea90cb&width=1060&userId=&cache=v2)
 
+
 1. 먼저 HTML을 통해, 기본적인 Element(텍스트, 링크 등)들을 적용한다.
 2. CSS를 이용해, Element들에 디자인(색깔, 크기, 배치 등)을 씌운다.
 3. **이미지**같은 다른 콘텐츠를 다운받는다.
-4. Javascript가 적용된다.
+4. Javascript가 적용된다.   
+
 	- 화면이 로드시, 정보를 API 서버에게 요청하거나
 	- 버튼을 클릭하면, 버튼에 적용된 JS 코드가 실행되는 것
 	
@@ -45,7 +47,7 @@
 
 ![서버사이드 렌더링 언어](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcLM1zO%2Fbtq09ybwBb4%2FrOPtvYFtAAZDZgeTbOSijk%2Fimg.png)
 
-**이들은 웹 서버에서 실행가능한 `서버 사이드 렌더링 가능 언어들 중 일부다.`
+**이들은 웹 서버에서 실행가능한** `서버 사이드 렌더링 가능 언어들 중 일부다.`
 
 + 웹 서버에서는 브라우저가 웹 요청(Request)을 했을 때, 웹(HTML, CSS, JS)을 넘겨주기 전에 코드를 미리 실행 할 수 있다.
 + 예를 들면, **미리 API 서버에서 정보를 받아와서 HTML, CSS 를 변경**할 수도 있다.

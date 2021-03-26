@@ -17,7 +17,13 @@
 
 
 + [인프라 아키텍쳐]()
-+ [3계층형 시스템]()
+
++ [3계층형 시스템](https://github.com/youngminss/computer-science/tree/main/ETC/3-tiered%20system)
+
+	- [프로세스 & 스레드 & OS 커널](https://github.com/youngminss/computer-science/blob/main/ETC/3-tiered%20system/Process_Thread_Kernel.md)
+	- [웹 데이터 흐름](https://github.com/youngminss/computer-science/blob/main/ETC/3-tiered%20system/Web_Data_Flow.md)
+	- [가상화](https://github.com/youngminss/computer-science/blob/main/ETC/3-tiered%20system/Virtualization.md)
+	
 + [인프라 기본 이론]()
 + [시스템 네트워크 구조]()
 + [무정지 인프라 구조]()

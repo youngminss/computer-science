@@ -4,7 +4,7 @@
 
 ![](https://linked2ev.github.io/assets/img/devlog/201808/2018-08-01-SPA-step3.png)
 
-<center>![](https://media.vlpt.us/images/ksh4820/post/60a183e5-96ae-4222-865e-09cbe2479a4d/image.png)</center>
+![](https://media.vlpt.us/images/ksh4820/post/60a183e5-96ae-4222-865e-09cbe2479a4d/image.png)
 
 
 + **최초 한번 페이지를 로딩** 후, JS를 이용해 **동적**으로 데이터만 변경하여 화면의 컨텐츠를 바꾸는 방식의 웹 애플리케이션
@@ -64,7 +64,7 @@
 
 ![CSR 데이터 로드후](https://miro.medium.com/max/1400/1*nmfJo2FUGSF9aL45JwG-Lg.png)
 
-<center>![](https://media.vlpt.us/images/ksh4820/post/23d1d2f2-169e-47fe-a4f9-7538638925d7/image.png)</center>
+![](https://media.vlpt.us/images/ksh4820/post/23d1d2f2-169e-47fe-a4f9-7538638925d7/image.png)
 
 
 + HTML 및 static(정적)파일들이 로드 되면서 데이가 있다면, 데이터 또한 서버에 요청하고 그것이 화면에 나타나는 방식이다.

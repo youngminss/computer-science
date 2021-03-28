@@ -22,7 +22,7 @@
 + [Virtual Dom](https://ko.reactjs.org/docs/faq-internals.html)
 + FE(프론트엔드)와 BE(백엔드)의 분리로 개발업무 분업화 및 협업이 용이
 
-	<details>
+<details>
 <summary>개별 업무 분업화 ?</summary>
 <div markdown="1">
 

@@ -22,7 +22,9 @@
 + [Virtual Dom](https://ko.reactjs.org/docs/faq-internals.html)
 + FE(프론트엔드)와 BE(백엔드)의 분리로 개발업무 분업화 및 협업이 용이
 
-	<details>
+<br />
+
+<details>
 <summary>개별 업무 분업화 ?</summary>
 <div markdown="1">
 
@@ -41,6 +43,7 @@
 
 </div>
 </details>
+
 + 개발이 상대적으로 효율적
 
 기본적으로 **SPA**는 **클라이언트 사이트 렌더링(CSR)**이지만,  SPA !== CSR이다.

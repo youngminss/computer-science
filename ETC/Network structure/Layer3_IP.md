@@ -2,7 +2,7 @@
 
 ### 정의
 
-**IP(Internet Protocol) **
+**IP(Internet Protocol)**
 
 + TCP 세그먼트가 만들어지면 다음은 IP처리가 시작된다.
 + IP에는 프로토콜 종류에 따라 다른 버젼이 있다.

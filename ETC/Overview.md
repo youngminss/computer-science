@@ -27,11 +27,11 @@
 + [인프라 기본 이론]()
 + [시스템 네트워크 구조]()
 
-- [프로토콜 & OSI 7계층 개요]()
-- [애플리케이션 계층 HTTP]()
-- [전송 계층 TCP](https://github.com/youngminss/computer-science/blob/main/ETC/Network%20structure/Layer4_TCP.md)
-- [네트워크 계층 IP](https://github.com/youngminss/computer-science/blob/main/ETC/Network%20structure/Layer3_IP.md)
-- [데이터링크 계층 Ethernet]()
+    - [프로토콜 & OSI 7계층 개요]()
+    - [애플리케이션 계층 HTTP]()
+    - [전송 계층 TCP](https://github.com/youngminss/computer-science/blob/main/ETC/Network%20structure/Layer4_TCP.md)
+    - [네트워크 계층 IP](https://github.com/youngminss/computer-science/blob/main/ETC/Network%20structure/Layer3_IP.md)
+    - [데이터링크 계층 Ethernet]()
 
 + [무정지 인프라 구조]()
 + [성능향상 인프라 구조]()

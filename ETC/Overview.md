@@ -1,7 +1,7 @@
 
 ## 📘 페이지 소개
 
-![그림으로 공부하는 IT 인프라구조](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdeIPJG%2Fbtq1K3Bz6fS%2FKANCVXSHHKnZ0SKVSZaw5K%2Fimg.png)
+<img src = "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdeIPJG%2Fbtq1K3Bz6fS%2FKANCVXSHHKnZ0SKVSZaw5K%2Fimg.png" width="400px">
 
 `그림으로 공부하는 IT 인프라구조` 책의 내용을 기반으로 정리한 페이지입니다.
 
